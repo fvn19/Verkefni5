@@ -1,3 +1,3 @@
 # Verkefni5
 
-Verkefni 5 í vefforitun1 Haust 2019. 
+Verkefni 5 í Vefforritun1 Haust 2019. 
